@@ -741,7 +741,7 @@ show_menu() {
         ssl_cert_issue
         ;;
     *)
-        LOGE " Failed正确的选项 [0-G]"
+        LOGE " selescted input invalid [0-G]"
         ;;
     esac
 }
